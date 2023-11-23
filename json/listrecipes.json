@@ -1,0 +1,35 @@
+{
+  "recipes": 
+      [
+          {
+              "title":"chesskake",
+              "ingridients":[
+                 {
+                     "iding":1,
+                     "quantity": "1 cup"
+                 }],
+             "steps":[
+                 {  "detail":"first"  } ,
+                        {  "detail":"second " }, 
+                               {  "detail":"thirth"  } 
+                 ],
+             "geo":{
+                 "lat":-326786781,
+                 "lng":-607686781
+             }
+             
+          }
+      ],
+      "ingridients":[
+          {
+              "iding":1,
+              "desc":"harina"
+          },
+          {
+              "iding":2,
+              "desc": "azucar"
+              
+          }
+          ]
+  
+ }

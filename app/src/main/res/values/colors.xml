@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="darkprimarycolor">#E64A19</color>
+    <color name="accentcolor">#9E9E9E</color>
+    <color name="primarytext">#212121</color>
+    <color name="secondarytext">#757575</color>
+    <color name="didider">#BDBDBD</color>
+    <color name="primarycolor">#FF5722</color>
+    <color name="icons">#FFFFFF</color>
+    <color name="grayfafafa">#fafafa</color>
+</resources>
